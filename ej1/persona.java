@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 /*persona.java Actividad numero 1 TP 1*/
 public class persona {
 public static void main (String[]args){
